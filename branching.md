@@ -5,9 +5,9 @@ title: Branching Strategy
 
 # 🌿 Branching Strategy
 
-We use simplified GitFlow:
+We follow a lightweight GitFlow model:
 
 - `main` – stable releases
-- `develop` – ongoing development
-- `feature/*` – for new work
-- `bugfix/*` – for patches
+- `develop` – integration
+- `feature/<task>` – new work
+- `bugfix/<task>` – small patches

@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Commit Strategy
+title: Commit Guidelines
 ---
 
-# 📝 Commit Strategy
+# 📝 Commit Guidelines
 
-To keep our Git history clean, readable, and traceable to Jira tickets, all commit messages must follow a consistent format that includes the Jira case number.
-
----
-
-## ✅ Format
-
-```text
+Use this format:  
 <JIRA-ID> <type>: <short description>
+
+### Examples:
+
+- `ENG-101 feat: add UART driver`
+- `SEC-202 fix: correct watchdog timeout`
+
+### Types:
+- `feat`, `fix`, `docs`, `refactor`, `chore`

@@ -1,21 +1,13 @@
 ---
 layout: default
-title: Onboarding Guide
+title: Onboarding
 ---
 
-# 🚀 Team Onboarding Guide
+# 🚀 Onboarding Guide
 
-Welcome to the team! This guide will walk you through getting set up with the tools, code, and processes you'll need.
+Welcome! Here's how to get started:
 
----
-
-## 🛠️ 1. Environment Setup
-
-### 🔧 For Software Engineers:
-- Install [Git](https://git-scm.com/)
-- Install [VS Code](https://code.visualstudio.com/) or your preferred IDE
-- Install Python 3.x (if applicable)
-- Install ARM toolchain / compiler (if working on embedded)
-- Clone the main repo:
-  ```bash
-  git clone https://github.com/our-org/main-repo.git
+1. Get access to repos and Jira.
+2. Clone your first project.
+3. Set up your local environment.
+4. Read our [Branching Strategy](branching.md) and [Commit Guidelines](commits.md).
